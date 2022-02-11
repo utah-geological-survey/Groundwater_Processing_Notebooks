@@ -1,0 +1,2 @@
+This file contains R scripts written to analyze soil moisture sensor data in Tintic Valley, Utah.  The main folder contains scripts for processing data.
+The subfolder contains scripts for plotting soil moisture data against local precipitation data.
